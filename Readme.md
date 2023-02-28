@@ -1,6 +1,6 @@
 # ⭐OpenAI CLI Docker
 
-Dockerized image blueprint of OpenAI CLI (Command line interface) with all the dependencies installed (python, pip etc) that can be used to fine-tune/train a model with custom data. <a href="https://platform.openai.com/docs/guides/fine-tuning">OpenAI CLI Fine-Tuning Docs</a>
+Dockerized image blueprint of OpenAI CLI (Command line interface) with all the dependencies installed (python, pip etc) that can be used to fine-tune/train a model with custom data sets. <a href="https://platform.openai.com/docs/guides/fine-tuning">OpenAI CLI Fine-Tuning Docs</a>
 
 ## 💫Getting Started
 
